@@ -1,0 +1,9 @@
+alias yashin="ssh -Y yashin.cs.utexas.edu"
+alias patience="ssh -Y patience.cs.utexas.edu"
+alias mallet="~/Desktop/mallet/bin/mallet"
+export JAVA_HOME=/usr/lib/jvm/java-6-openjdk
+export PATH=$PATH:/usr/lib/jvm/java-6-openjdk/bin
+export TSHRDLU_DIR=/home/jperez/tshrdlu
+export PATH=$PATH:$TSHRDLU_DIR/bin
+export ANLP_DIR=~/Desktop/applied-nlp
+export PATH=$PATH:$ANLP_DIR/bin
