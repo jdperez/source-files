@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/jperez/.vim'
+let g:netrw_dirhist_2='/home/jperez/Desktop/applied-nlp/project/phase1'
+let g:netrw_dirhist_3='/home/jperez/Desktop/applied-nlp/.git'
+let g:netrw_dirhist_4='/home/jperez/tshrdlu/.git'
+let g:netrw_dirhist_5='/media/88697f18-336d-4ee6-802a-4b57e095383d/home/jperez/nao/trunk/build'
